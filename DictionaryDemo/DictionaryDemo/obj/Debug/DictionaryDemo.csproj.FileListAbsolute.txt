@@ -1,0 +1,7 @@
+C:\Users\Craven\Documents\Bootcamp5\Classroom\DictionaryDemo\DictionaryDemo\bin\Debug\DictionaryDemo.exe.config
+C:\Users\Craven\Documents\Bootcamp5\Classroom\DictionaryDemo\DictionaryDemo\bin\Debug\DictionaryDemo.exe
+C:\Users\Craven\Documents\Bootcamp5\Classroom\DictionaryDemo\DictionaryDemo\bin\Debug\DictionaryDemo.pdb
+C:\Users\Craven\Documents\Bootcamp5\Classroom\DictionaryDemo\DictionaryDemo\obj\Debug\DictionaryDemo.csprojAssemblyReference.cache
+C:\Users\Craven\Documents\Bootcamp5\Classroom\DictionaryDemo\DictionaryDemo\obj\Debug\DictionaryDemo.csproj.CoreCompileInputs.cache
+C:\Users\Craven\Documents\Bootcamp5\Classroom\DictionaryDemo\DictionaryDemo\obj\Debug\DictionaryDemo.exe
+C:\Users\Craven\Documents\Bootcamp5\Classroom\DictionaryDemo\DictionaryDemo\obj\Debug\DictionaryDemo.pdb
