@@ -1,0 +1,7 @@
+C:\Users\Craven\Documents\Bootcamp5\Classroom\ArraysDemo\ArraysDemo\bin\Debug\ArraysDemo.exe.config
+C:\Users\Craven\Documents\Bootcamp5\Classroom\ArraysDemo\ArraysDemo\bin\Debug\ArraysDemo.exe
+C:\Users\Craven\Documents\Bootcamp5\Classroom\ArraysDemo\ArraysDemo\bin\Debug\ArraysDemo.pdb
+C:\Users\Craven\Documents\Bootcamp5\Classroom\ArraysDemo\ArraysDemo\obj\Debug\ArraysDemo.csprojAssemblyReference.cache
+C:\Users\Craven\Documents\Bootcamp5\Classroom\ArraysDemo\ArraysDemo\obj\Debug\ArraysDemo.csproj.CoreCompileInputs.cache
+C:\Users\Craven\Documents\Bootcamp5\Classroom\ArraysDemo\ArraysDemo\obj\Debug\ArraysDemo.exe
+C:\Users\Craven\Documents\Bootcamp5\Classroom\ArraysDemo\ArraysDemo\obj\Debug\ArraysDemo.pdb
