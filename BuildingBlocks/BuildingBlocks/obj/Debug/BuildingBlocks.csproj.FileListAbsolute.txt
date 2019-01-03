@@ -1,0 +1,7 @@
+C:\Users\Craven\Documents\Bootcamp5\Classroom\BuildingBlocks\BuildingBlocks\bin\Debug\BuildingBlocks.exe.config
+C:\Users\Craven\Documents\Bootcamp5\Classroom\BuildingBlocks\BuildingBlocks\bin\Debug\BuildingBlocks.exe
+C:\Users\Craven\Documents\Bootcamp5\Classroom\BuildingBlocks\BuildingBlocks\bin\Debug\BuildingBlocks.pdb
+C:\Users\Craven\Documents\Bootcamp5\Classroom\BuildingBlocks\BuildingBlocks\obj\Debug\BuildingBlocks.csprojAssemblyReference.cache
+C:\Users\Craven\Documents\Bootcamp5\Classroom\BuildingBlocks\BuildingBlocks\obj\Debug\BuildingBlocks.csproj.CoreCompileInputs.cache
+C:\Users\Craven\Documents\Bootcamp5\Classroom\BuildingBlocks\BuildingBlocks\obj\Debug\BuildingBlocks.exe
+C:\Users\Craven\Documents\Bootcamp5\Classroom\BuildingBlocks\BuildingBlocks\obj\Debug\BuildingBlocks.pdb
