@@ -1,0 +1,7 @@
+C:\Users\Craven\Documents\Bootcamp5\Classroom\WhileLoops\WhileLoops\bin\Debug\WhileLoops.exe.config
+C:\Users\Craven\Documents\Bootcamp5\Classroom\WhileLoops\WhileLoops\bin\Debug\WhileLoops.exe
+C:\Users\Craven\Documents\Bootcamp5\Classroom\WhileLoops\WhileLoops\bin\Debug\WhileLoops.pdb
+C:\Users\Craven\Documents\Bootcamp5\Classroom\WhileLoops\WhileLoops\obj\Debug\WhileLoops.csprojAssemblyReference.cache
+C:\Users\Craven\Documents\Bootcamp5\Classroom\WhileLoops\WhileLoops\obj\Debug\WhileLoops.csproj.CoreCompileInputs.cache
+C:\Users\Craven\Documents\Bootcamp5\Classroom\WhileLoops\WhileLoops\obj\Debug\WhileLoops.exe
+C:\Users\Craven\Documents\Bootcamp5\Classroom\WhileLoops\WhileLoops\obj\Debug\WhileLoops.pdb
