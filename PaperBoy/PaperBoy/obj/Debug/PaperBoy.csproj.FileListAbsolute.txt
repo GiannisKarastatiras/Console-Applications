@@ -1,0 +1,7 @@
+C:\Users\Craven\Documents\Bootcamp5\Classroom\PaperBoy\PaperBoy\bin\Debug\PaperBoy.exe.config
+C:\Users\Craven\Documents\Bootcamp5\Classroom\PaperBoy\PaperBoy\bin\Debug\PaperBoy.exe
+C:\Users\Craven\Documents\Bootcamp5\Classroom\PaperBoy\PaperBoy\bin\Debug\PaperBoy.pdb
+C:\Users\Craven\Documents\Bootcamp5\Classroom\PaperBoy\PaperBoy\obj\Debug\PaperBoy.csprojAssemblyReference.cache
+C:\Users\Craven\Documents\Bootcamp5\Classroom\PaperBoy\PaperBoy\obj\Debug\PaperBoy.csproj.CoreCompileInputs.cache
+C:\Users\Craven\Documents\Bootcamp5\Classroom\PaperBoy\PaperBoy\obj\Debug\PaperBoy.exe
+C:\Users\Craven\Documents\Bootcamp5\Classroom\PaperBoy\PaperBoy\obj\Debug\PaperBoy.pdb
