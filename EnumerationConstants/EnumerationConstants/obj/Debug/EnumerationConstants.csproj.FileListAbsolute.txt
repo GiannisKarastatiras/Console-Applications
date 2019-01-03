@@ -1,0 +1,7 @@
+C:\Users\Craven\Documents\Bootcamp5\Classroom\EnumerationConstants\EnumerationConstants\bin\Debug\EnumerationConstants.exe.config
+C:\Users\Craven\Documents\Bootcamp5\Classroom\EnumerationConstants\EnumerationConstants\bin\Debug\EnumerationConstants.exe
+C:\Users\Craven\Documents\Bootcamp5\Classroom\EnumerationConstants\EnumerationConstants\bin\Debug\EnumerationConstants.pdb
+C:\Users\Craven\Documents\Bootcamp5\Classroom\EnumerationConstants\EnumerationConstants\obj\Debug\EnumerationConstants.csprojAssemblyReference.cache
+C:\Users\Craven\Documents\Bootcamp5\Classroom\EnumerationConstants\EnumerationConstants\obj\Debug\EnumerationConstants.csproj.CoreCompileInputs.cache
+C:\Users\Craven\Documents\Bootcamp5\Classroom\EnumerationConstants\EnumerationConstants\obj\Debug\EnumerationConstants.exe
+C:\Users\Craven\Documents\Bootcamp5\Classroom\EnumerationConstants\EnumerationConstants\obj\Debug\EnumerationConstants.pdb
