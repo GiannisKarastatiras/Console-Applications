@@ -1,0 +1,7 @@
+C:\Users\Craven\Documents\Bootcamp5\Classroom\StringBuilderDemo\StringBuilderDemo\bin\Debug\StringBuilderDemo.exe.config
+C:\Users\Craven\Documents\Bootcamp5\Classroom\StringBuilderDemo\StringBuilderDemo\bin\Debug\StringBuilderDemo.exe
+C:\Users\Craven\Documents\Bootcamp5\Classroom\StringBuilderDemo\StringBuilderDemo\bin\Debug\StringBuilderDemo.pdb
+C:\Users\Craven\Documents\Bootcamp5\Classroom\StringBuilderDemo\StringBuilderDemo\obj\Debug\StringBuilderDemo.csprojAssemblyReference.cache
+C:\Users\Craven\Documents\Bootcamp5\Classroom\StringBuilderDemo\StringBuilderDemo\obj\Debug\StringBuilderDemo.csproj.CoreCompileInputs.cache
+C:\Users\Craven\Documents\Bootcamp5\Classroom\StringBuilderDemo\StringBuilderDemo\obj\Debug\StringBuilderDemo.exe
+C:\Users\Craven\Documents\Bootcamp5\Classroom\StringBuilderDemo\StringBuilderDemo\obj\Debug\StringBuilderDemo.pdb
