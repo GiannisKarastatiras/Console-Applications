@@ -1,0 +1,16 @@
+student(prop grade,methods me grade)
+electronic great book abstract
+
+
+GradeBook State
+float grades[0....100]
+
+1. The grades for a student(peri)
+
+
+
+GradeBook Behaviour
+highest-lowest-average(statistics)
+
+1.Add a new Grade(peri)
+2.Calculate Statistics(peri)
