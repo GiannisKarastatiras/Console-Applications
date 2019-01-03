@@ -1,0 +1,7 @@
+C:\Users\Craven\Documents\Bootcamp5\Classroom\ClassDemo2\ClassDemo2\bin\Debug\ClassDemo2.exe.config
+C:\Users\Craven\Documents\Bootcamp5\Classroom\ClassDemo2\ClassDemo2\bin\Debug\ClassDemo2.exe
+C:\Users\Craven\Documents\Bootcamp5\Classroom\ClassDemo2\ClassDemo2\bin\Debug\ClassDemo2.pdb
+C:\Users\Craven\Documents\Bootcamp5\Classroom\ClassDemo2\ClassDemo2\obj\Debug\ClassDemo2.csprojAssemblyReference.cache
+C:\Users\Craven\Documents\Bootcamp5\Classroom\ClassDemo2\ClassDemo2\obj\Debug\ClassDemo2.csproj.CoreCompileInputs.cache
+C:\Users\Craven\Documents\Bootcamp5\Classroom\ClassDemo2\ClassDemo2\obj\Debug\ClassDemo2.exe
+C:\Users\Craven\Documents\Bootcamp5\Classroom\ClassDemo2\ClassDemo2\obj\Debug\ClassDemo2.pdb
