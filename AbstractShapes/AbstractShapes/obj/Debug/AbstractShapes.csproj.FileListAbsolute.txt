@@ -1,0 +1,7 @@
+C:\Users\Craven\Documents\Bootcamp5\Classroom\AbstractShapes\AbstractShapes\bin\Debug\AbstractShapes.exe.config
+C:\Users\Craven\Documents\Bootcamp5\Classroom\AbstractShapes\AbstractShapes\bin\Debug\AbstractShapes.exe
+C:\Users\Craven\Documents\Bootcamp5\Classroom\AbstractShapes\AbstractShapes\bin\Debug\AbstractShapes.pdb
+C:\Users\Craven\Documents\Bootcamp5\Classroom\AbstractShapes\AbstractShapes\obj\Debug\AbstractShapes.csprojAssemblyReference.cache
+C:\Users\Craven\Documents\Bootcamp5\Classroom\AbstractShapes\AbstractShapes\obj\Debug\AbstractShapes.csproj.CoreCompileInputs.cache
+C:\Users\Craven\Documents\Bootcamp5\Classroom\AbstractShapes\AbstractShapes\obj\Debug\AbstractShapes.exe
+C:\Users\Craven\Documents\Bootcamp5\Classroom\AbstractShapes\AbstractShapes\obj\Debug\AbstractShapes.pdb
