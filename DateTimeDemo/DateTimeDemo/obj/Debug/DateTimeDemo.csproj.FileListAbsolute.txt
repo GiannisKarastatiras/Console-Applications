@@ -1,0 +1,7 @@
+C:\Users\Craven\Documents\Bootcamp5\Classroom\DateTimeDemo\DateTimeDemo\bin\Debug\DateTimeDemo.exe.config
+C:\Users\Craven\Documents\Bootcamp5\Classroom\DateTimeDemo\DateTimeDemo\bin\Debug\DateTimeDemo.exe
+C:\Users\Craven\Documents\Bootcamp5\Classroom\DateTimeDemo\DateTimeDemo\bin\Debug\DateTimeDemo.pdb
+C:\Users\Craven\Documents\Bootcamp5\Classroom\DateTimeDemo\DateTimeDemo\obj\Debug\DateTimeDemo.csprojAssemblyReference.cache
+C:\Users\Craven\Documents\Bootcamp5\Classroom\DateTimeDemo\DateTimeDemo\obj\Debug\DateTimeDemo.csproj.CoreCompileInputs.cache
+C:\Users\Craven\Documents\Bootcamp5\Classroom\DateTimeDemo\DateTimeDemo\obj\Debug\DateTimeDemo.exe
+C:\Users\Craven\Documents\Bootcamp5\Classroom\DateTimeDemo\DateTimeDemo\obj\Debug\DateTimeDemo.pdb
