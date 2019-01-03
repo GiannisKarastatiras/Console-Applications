@@ -1,0 +1,7 @@
+C:\Users\Craven\Documents\Bootcamp5\Classroom\ProceduralProgramming\ProceduralProgramming\bin\Debug\ProceduralProgramming.exe.config
+C:\Users\Craven\Documents\Bootcamp5\Classroom\ProceduralProgramming\ProceduralProgramming\bin\Debug\ProceduralProgramming.exe
+C:\Users\Craven\Documents\Bootcamp5\Classroom\ProceduralProgramming\ProceduralProgramming\bin\Debug\ProceduralProgramming.pdb
+C:\Users\Craven\Documents\Bootcamp5\Classroom\ProceduralProgramming\ProceduralProgramming\obj\Debug\ProceduralProgramming.csprojAssemblyReference.cache
+C:\Users\Craven\Documents\Bootcamp5\Classroom\ProceduralProgramming\ProceduralProgramming\obj\Debug\ProceduralProgramming.csproj.CoreCompileInputs.cache
+C:\Users\Craven\Documents\Bootcamp5\Classroom\ProceduralProgramming\ProceduralProgramming\obj\Debug\ProceduralProgramming.exe
+C:\Users\Craven\Documents\Bootcamp5\Classroom\ProceduralProgramming\ProceduralProgramming\obj\Debug\ProceduralProgramming.pdb
