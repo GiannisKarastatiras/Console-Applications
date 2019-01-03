@@ -1,0 +1,7 @@
+C:\Users\Craven\Documents\Bootcamp5\Classroom\LINQExample2\LINQExample2\bin\Debug\LINQExample2.exe.config
+C:\Users\Craven\Documents\Bootcamp5\Classroom\LINQExample2\LINQExample2\bin\Debug\LINQExample2.exe
+C:\Users\Craven\Documents\Bootcamp5\Classroom\LINQExample2\LINQExample2\bin\Debug\LINQExample2.pdb
+C:\Users\Craven\Documents\Bootcamp5\Classroom\LINQExample2\LINQExample2\obj\Debug\LINQExample2.csproj.CoreCompileInputs.cache
+C:\Users\Craven\Documents\Bootcamp5\Classroom\LINQExample2\LINQExample2\obj\Debug\LINQExample2.exe
+C:\Users\Craven\Documents\Bootcamp5\Classroom\LINQExample2\LINQExample2\obj\Debug\LINQExample2.pdb
+C:\Users\Craven\Documents\Bootcamp5\Classroom\LINQExample2\LINQExample2\obj\Debug\LINQExample2.csprojAssemblyReference.cache
