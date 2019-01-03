@@ -1,0 +1,7 @@
+C:\Users\Craven\Documents\Bootcamp5\Classroom\InterfaceDemo\InterfaceDemo\bin\Debug\InterfaceDemo.exe.config
+C:\Users\Craven\Documents\Bootcamp5\Classroom\InterfaceDemo\InterfaceDemo\bin\Debug\InterfaceDemo.exe
+C:\Users\Craven\Documents\Bootcamp5\Classroom\InterfaceDemo\InterfaceDemo\bin\Debug\InterfaceDemo.pdb
+C:\Users\Craven\Documents\Bootcamp5\Classroom\InterfaceDemo\InterfaceDemo\obj\Debug\InterfaceDemo.csprojAssemblyReference.cache
+C:\Users\Craven\Documents\Bootcamp5\Classroom\InterfaceDemo\InterfaceDemo\obj\Debug\InterfaceDemo.csproj.CoreCompileInputs.cache
+C:\Users\Craven\Documents\Bootcamp5\Classroom\InterfaceDemo\InterfaceDemo\obj\Debug\InterfaceDemo.exe
+C:\Users\Craven\Documents\Bootcamp5\Classroom\InterfaceDemo\InterfaceDemo\obj\Debug\InterfaceDemo.pdb
