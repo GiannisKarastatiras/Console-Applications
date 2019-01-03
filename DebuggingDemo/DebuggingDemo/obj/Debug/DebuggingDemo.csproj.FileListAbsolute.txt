@@ -1,0 +1,7 @@
+C:\Users\Craven\Documents\Bootcamp5\Classroom\DebuggingDemo\DebuggingDemo\bin\Debug\DebuggingDemo.exe.config
+C:\Users\Craven\Documents\Bootcamp5\Classroom\DebuggingDemo\DebuggingDemo\bin\Debug\DebuggingDemo.exe
+C:\Users\Craven\Documents\Bootcamp5\Classroom\DebuggingDemo\DebuggingDemo\bin\Debug\DebuggingDemo.pdb
+C:\Users\Craven\Documents\Bootcamp5\Classroom\DebuggingDemo\DebuggingDemo\obj\Debug\DebuggingDemo.csprojAssemblyReference.cache
+C:\Users\Craven\Documents\Bootcamp5\Classroom\DebuggingDemo\DebuggingDemo\obj\Debug\DebuggingDemo.csproj.CoreCompileInputs.cache
+C:\Users\Craven\Documents\Bootcamp5\Classroom\DebuggingDemo\DebuggingDemo\obj\Debug\DebuggingDemo.exe
+C:\Users\Craven\Documents\Bootcamp5\Classroom\DebuggingDemo\DebuggingDemo\obj\Debug\DebuggingDemo.pdb
