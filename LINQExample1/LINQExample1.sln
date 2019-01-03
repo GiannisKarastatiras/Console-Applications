@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LINQExample1", "LINQExample1\LINQExample1.csproj", "{19590C40-9AF2-4659-BE8D-7ECCEEECE94C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{19590C40-9AF2-4659-BE8D-7ECCEEECE94C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19590C40-9AF2-4659-BE8D-7ECCEEECE94C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19590C40-9AF2-4659-BE8D-7ECCEEECE94C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19590C40-9AF2-4659-BE8D-7ECCEEECE94C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CFC6E6EE-66C8-4DD0-A006-3BB7FF04DFEB}
+	EndGlobalSection
+EndGlobal
